@@ -48,8 +48,8 @@ public class Main {
         }
         System.out.println("Задание 6");
         int rocket =79;
-        for (int i = 0; i <= 2100; i= i +rocket) {
-if(i >1825 && i <2100){
+        for (int i = 0; i <= 2122; i= i +rocket) {
+if(i >1822 && i <2122){
     System.out.println(i);
 }
 
